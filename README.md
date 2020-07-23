@@ -1,6 +1,8 @@
 # Spring Batch Examples - Read from DB Validation
 
-Project with examples using Spring Batch. In this project there are configurations using JdbcPagingItemReader and ItemWriter simple implementation to write a log.
+Project with examples using Spring Batch.
+
+In this project there are configurations using JdbcPagingItemReader and ItemWriter simple implementation to write a log.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
